@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a,
+li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.el-pagination {
+    text-align: center;
+}
